@@ -1,4 +1,3 @@
 all: mostdesirable
 
-mostdesirable: mostdesirable.c
-	$(CC) -o $@ $<
+mostdesirable: mostdesirable.o
