@@ -14,7 +14,7 @@
 
 #include <stdio.h>
 
-main() {
+int main() {
     printf("Most Desirable Hello World\n");
-
+    return 0;
 }
